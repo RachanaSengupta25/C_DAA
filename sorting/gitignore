@@ -1,0 +1,5 @@
+*.exe/
+*.DAT/
+*.out/
+*.BAK/
+*.txt/
